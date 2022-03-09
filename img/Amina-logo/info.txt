@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Arimo-Bold
+font link: https://fonts.google.com/specimen/Arimo
+font author: Steve Matteson
+font author site: https://twitter.com/@SteveMatteson1
+
+
+icon designer: Icon Market
+icon designer link: /iconmarketpk
+        
+
+fontColor: {"hex":"#646464"}
+bgColor: {"hex":"transparent"}
+iconColor: {"hex":"#646464"}
+
+      
